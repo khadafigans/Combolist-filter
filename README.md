@@ -13,7 +13,7 @@ Installation :
                python main.py
 
 <h2>Screenshots</h2>
-<img src="https://i.imgur.com/cvpD1jF.png" style="max-width:100%;">
+<img src="https://i.imgur.com/GdxUbYn.png" style="max-width:100%;">
 
 <h2>Before</h2>
 <img src="https://i.imgur.com/paccye2.png" style="max-width:100%;">
